@@ -2,17 +2,21 @@ name: Office Worker Auto Commit Bot
 
 on:
   schedule:
-    # Chạy 2 lần mỗi ngày (00:00 và 12:00 UTC), TỪ THỨ HAI ĐẾN THỨ SÁU (1-5)
     - cron: '0 0,12 * * 1-5'
   workflow_dispatch:
+
+# THÊM MỚI: Cấp quyền ghi (write) cho bot để nó có thể push code lên kho lưu trữ
+permissions:
+  contents: write
 
 jobs:
   auto-commit:
     runs-on: ubuntu-latest
 
     steps:
+      # CẬP NHẬT: Nâng cấp lên v4 để sửa cảnh báo màu vàng
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Xử lý tỷ lệ 40% và Commit ngẫu nhiên
         run: |
