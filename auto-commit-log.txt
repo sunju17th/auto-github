@@ -1,1 +1,2 @@
 Commit lúc Tue Apr 28 09:03:42 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Tue Apr 28 16:48:06 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
