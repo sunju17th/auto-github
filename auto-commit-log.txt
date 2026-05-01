@@ -2,3 +2,4 @@ Commit lúc Tue Apr 28 09:03:42 UTC 2026 - Nội dung: Sửa lỗi đánh máy t
 Commit lúc Tue Apr 28 16:48:06 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
 Commit lúc Thu Apr 30 02:43:09 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
 Commit lúc Fri May  1 02:49:50 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Fri May  1 13:14:32 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
