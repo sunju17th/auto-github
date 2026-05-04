@@ -16,15 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Tải toàn bộ lịch sử để lệnh rebase hoạt động chính xác
+          ref: main 
           fetch-depth: 0 
 
-      - name: Xử lý tỷ lệ 40% và Commit ngẫu nhiên
+      - name: Xử lý tỷ lệ 50% và Commit ngẫu nhiên
         run: |
           CHANCE=$(( $RANDOM % 100 ))
           
-          if [ $CHANCE -lt 40 ]; then
-            echo "Tuyệt vời! Quay vào ô 40% thành công. Số quay được là: $CHANCE"
+          if [ $CHANCE -lt 50 ]; then
+            echo "Tuyệt vời! Quay vào ô 50% thành công. Số quay được là: $CHANCE"
             
             MESSAGES=(
               "Cập nhật tài liệu README.md"
@@ -39,17 +39,16 @@ jobs:
             RANDOM_INDEX=$(( $RANDOM % ${#MESSAGES[@]} ))
             COMMIT_MSG=${MESSAGES[$RANDOM_INDEX]}
             
-            echo "Commit lúc $(date) - Nội dung: $COMMIT_MSG" >> auto-commit-log.txt
-            
             git config --global user.name "GitHub Action Bot"
             git config --global user.email "action@github.com"
             
+            git pull origin main
+            
+            echo "Commit lúc $(date) - Nội dung: $COMMIT_MSG" >> auto-commit-log.txt
+            
             git add auto-commit-log.txt
             git commit -m "$COMMIT_MSG"
-            
-            # ĐỒNG BỘ HÓA: Kéo các thay đổi mới nhất về trước khi đẩy mã lên
-            git pull origin main --rebase
-            git push
+            git push origin main
             
           else
             echo "Hôm nay nhẹ nhàng, không commit. Số quay được là: $CHANCE"
