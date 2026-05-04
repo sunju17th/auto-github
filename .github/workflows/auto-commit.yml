@@ -5,7 +5,6 @@ on:
     - cron: '0 0,12 * * 1-5'
   workflow_dispatch:
 
-# THÊM MỚI: Cấp quyền ghi (write) cho bot để nó có thể push code lên kho lưu trữ
 permissions:
   contents: write
 
@@ -14,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # CẬP NHẬT: Nâng cấp lên v4 để sửa cảnh báo màu vàng
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -45,6 +43,11 @@ jobs:
             
             git add auto-commit-log.txt
             git commit -m "$COMMIT_MSG"
+            
+            # THÊM MỚI: Kéo các thay đổi mới nhất từ nhánh main về và đồng bộ hóa
+            git pull origin main --rebase
+            
+            # Sau khi đồng bộ xong, tiến hành đẩy code lên
             git push
             
           else
