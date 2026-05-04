@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          # Tải toàn bộ lịch sử để lệnh rebase hoạt động chính xác
+          fetch-depth: 0 
 
       - name: Xử lý tỷ lệ 40% và Commit ngẫu nhiên
         run: |
@@ -44,10 +47,8 @@ jobs:
             git add auto-commit-log.txt
             git commit -m "$COMMIT_MSG"
             
-            # THÊM MỚI: Kéo các thay đổi mới nhất từ nhánh main về và đồng bộ hóa
+            # ĐỒNG BỘ HÓA: Kéo các thay đổi mới nhất về trước khi đẩy mã lên
             git pull origin main --rebase
-            
-            # Sau khi đồng bộ xong, tiến hành đẩy code lên
             git push
             
           else
