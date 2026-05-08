@@ -5,3 +5,4 @@ Commit lúc Fri May  1 02:49:50 UTC 2026 - Nội dung: Sửa lỗi đánh máy t
 Commit lúc Fri May  1 13:14:32 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
 Commit lúc Mon May  4 13:54:39 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
 Commit lúc Thu May  7 02:40:00 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
+Commit lúc Fri May  8 02:44:56 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
