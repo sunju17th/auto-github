@@ -8,3 +8,4 @@ Commit lúc Thu May  7 02:40:00 UTC 2026 - Nội dung: Sửa một lỗi hiển 
 Commit lúc Fri May  8 02:44:56 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
 Commit lúc Mon May 11 02:53:29 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
 Commit lúc Tue May 12 02:45:32 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
+Commit lúc Tue May 12 14:19:20 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
