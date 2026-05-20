@@ -13,3 +13,4 @@ Commit lúc Wed May 13 02:51:12 UTC 2026 - Nội dung: Thêm ghi chú (comments)
 Commit lúc Wed May 13 14:27:58 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
 Commit lúc Thu May 14 14:04:36 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
 Commit lúc Mon May 18 15:27:13 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
+Commit lúc Wed May 20 02:57:17 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
