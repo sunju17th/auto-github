@@ -19,3 +19,4 @@ Commit lúc Fri May 22 14:34:02 UTC 2026 - Nội dung: Cập nhật tài liệu 
 Commit lúc Mon May 25 14:49:23 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
 Commit lúc Tue May 26 15:19:19 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
 Commit lúc Wed May 27 15:36:02 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
+Commit lúc Thu May 28 15:46:27 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
