@@ -22,3 +22,4 @@ Commit lúc Wed May 27 15:36:02 UTC 2026 - Nội dung: Thêm ghi chú (comments)
 Commit lúc Thu May 28 15:46:27 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
 Commit lúc Fri May 29 02:56:58 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
 Commit lúc Mon Jun  1 17:33:39 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
+Commit lúc Thu Jun  4 03:44:37 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
