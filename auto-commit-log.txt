@@ -25,3 +25,4 @@ Commit lúc Mon Jun  1 17:33:39 UTC 2026 - Nội dung: Cập nhật cấu hình 
 Commit lúc Thu Jun  4 03:44:37 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
 Commit lúc Fri Jun  5 14:45:12 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
 Commit lúc Mon Jun  8 15:45:21 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Tue Jun  9 02:52:13 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
