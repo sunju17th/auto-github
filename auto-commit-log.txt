@@ -27,3 +27,4 @@ Commit lúc Fri Jun  5 14:45:12 UTC 2026 - Nội dung: Thêm ghi chú (comments)
 Commit lúc Mon Jun  8 15:45:21 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
 Commit lúc Tue Jun  9 02:52:13 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
 Commit lúc Tue Jun  9 14:44:48 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
+Commit lúc Wed Jun 10 03:29:40 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
