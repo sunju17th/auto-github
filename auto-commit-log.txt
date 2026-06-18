@@ -31,3 +31,4 @@ Commit lúc Wed Jun 10 03:29:40 UTC 2026 - Nội dung: Sửa một lỗi hiển 
 Commit lúc Thu Jun 11 15:54:57 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
 Commit lúc Tue Jun 16 16:46:16 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
 Commit lúc Wed Jun 17 15:20:38 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
+Commit lúc Thu Jun 18 03:40:16 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
