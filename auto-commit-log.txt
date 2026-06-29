@@ -39,3 +39,4 @@ Commit lúc Mon Jun 22 03:57:55 UTC 2026 - Nội dung: Sửa lỗi đánh máy t
 Commit lúc Wed Jun 24 14:24:45 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
 Commit lúc Thu Jun 25 02:56:37 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
 Commit lúc Fri Jun 26 14:19:47 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
+Commit lúc Mon Jun 29 03:38:23 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
