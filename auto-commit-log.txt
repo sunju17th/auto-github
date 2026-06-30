@@ -41,3 +41,4 @@ Commit lúc Thu Jun 25 02:56:37 UTC 2026 - Nội dung: Cập nhật tài liệu 
 Commit lúc Fri Jun 26 14:19:47 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
 Commit lúc Mon Jun 29 03:38:23 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
 Commit lúc Mon Jun 29 15:41:10 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
+Commit lúc Tue Jun 30 03:25:52 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
