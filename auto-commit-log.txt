@@ -43,3 +43,4 @@ Commit lúc Mon Jun 29 03:38:23 UTC 2026 - Nội dung: Sửa một lỗi hiển 
 Commit lúc Mon Jun 29 15:41:10 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
 Commit lúc Tue Jun 30 03:25:52 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
 Commit lúc Wed Jul  1 03:34:23 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
+Commit lúc Thu Jul  2 02:58:21 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
