@@ -46,3 +46,4 @@ Commit lúc Wed Jul  1 03:34:23 UTC 2026 - Nội dung: Cập nhật tài liệu 
 Commit lúc Thu Jul  2 02:58:21 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
 Commit lúc Fri Jul  3 13:57:24 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
 Commit lúc Wed Jul  8 02:27:40 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Wed Jul  8 13:57:54 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
