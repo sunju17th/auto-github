@@ -49,3 +49,4 @@ Commit lúc Wed Jul  8 02:27:40 UTC 2026 - Nội dung: Sửa lỗi đánh máy t
 Commit lúc Wed Jul  8 13:57:54 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
 Commit lúc Fri Jul 10 02:46:04 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
 Commit lúc Mon Jul 13 14:27:42 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Tue Jul 14 02:11:18 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
