@@ -53,3 +53,4 @@ Commit lúc Tue Jul 14 02:11:18 UTC 2026 - Nội dung: Thêm ghi chú (comments)
 Commit lúc Wed Jul 15 02:09:18 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
 Commit lúc Wed Jul 15 13:37:45 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
 Commit lúc Fri Jul 17 02:25:27 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
+Commit lúc Fri Jul 17 13:21:35 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
