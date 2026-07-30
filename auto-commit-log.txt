@@ -60,3 +60,4 @@ Commit lúc Wed Jul 22 13:45:14 UTC 2026 - Nội dung: Cập nhật cấu hình 
 Commit lúc Fri Jul 24 02:26:29 UTC 2026 - Nội dung: Dọn dẹp code thừa (refactoring)
 Commit lúc Fri Jul 24 13:38:00 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
 Commit lúc Wed Jul 29 02:23:45 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Thu Jul 30 02:05:51 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
