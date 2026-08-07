@@ -67,3 +67,4 @@ Commit lúc Fri Jul 31 13:57:55 UTC 2026 - Nội dung: Cập nhật tài liệu 
 Commit lúc Mon Aug  3 02:33:06 UTC 2026 - Nội dung: Cập nhật cấu hình dự án
 Commit lúc Mon Aug  3 14:31:58 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
 Commit lúc Tue Aug  4 14:03:50 UTC 2026 - Nội dung: Sửa lỗi đánh máy trong tài liệu
+Commit lúc Fri Aug  7 12:56:03 UTC 2026 - Nội dung: Sửa một lỗi hiển thị nhỏ (bug fix)
