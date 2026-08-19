@@ -76,3 +76,4 @@ Commit lúc Thu Aug 13 13:02:35 UTC 2026 - Nội dung: Sửa một lỗi hiển 
 Commit lúc Fri Aug 14 01:41:57 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
 Commit lúc Fri Aug 14 12:58:32 UTC 2026 - Nội dung: Cập nhật tài liệu README.md
 Commit lúc Mon Aug 17 12:37:05 UTC 2026 - Nội dung: Tối ưu hóa hiệu suất mã nguồn
+Commit lúc Wed Aug 19 12:39:21 UTC 2026 - Nội dung: Thêm ghi chú (comments) cho code dễ hiểu hơn
